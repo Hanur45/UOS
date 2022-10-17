@@ -1,8 +1,8 @@
 # UOS
 UOS is a dos type system
-##CONTRIBUTE
+##C ONTRIBUTE
 If you would dm on discord newosdev#4639
-###BUILD
+### BUILD
 
 Do sh run.sh it will compile
 
